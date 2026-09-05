@@ -1,16 +1,16 @@
 {
   "users": {
     "leah": {
-      "folder": "up-skill__skills_repo__leah",
-      "repo": "https://github.com/mingzilla/up-skill__skills_repo__leah.git"
+      "folder": "upskill__skills_repo__leah",
+      "repo": "https://github.com/mingzilla/upskill__skills_repo__leah.git"
     },
     "myles": {
-      "folder": "up-skill__skills_repo__myles",
-      "repo": "https://github.com/mingzilla/up-skill__skills_repo__myles.git"
+      "folder": "upskill__skills_repo__myles",
+      "repo": "https://github.com/mingzilla/upskill__skills_repo__myles.git"
     },
     "ming": {
-      "folder": "up-skill__skills_repo__ming",
-      "repo": "https://github.com/mingzilla/up-skill__skills_repo__ming.git"
+      "folder": "upskill__skills_repo__ming",
+      "repo": "https://github.com/mingzilla/upskill__skills_repo__ming.git"
     }
   }
 }
